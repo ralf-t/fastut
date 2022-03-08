@@ -8,3 +8,6 @@ To test codebase syntax:
 
 To test:
 - 'pytest'
+
+Authentication - login
+Authorization - permission
